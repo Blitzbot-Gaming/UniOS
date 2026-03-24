@@ -1,7 +1,53 @@
-# Tauri + React + Typescript
+# 🧠 UniOS – University Management System
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+## 🚀 Overview
+UniOS is a desktop application designed to help students manage their academic life efficiently. It provides a centralized system for tracking courses, tasks, deadlines, and overall progress.
 
-## Recommended IDE Setup
+Built with performance and usability in mind, UniOS focuses on delivering a clean, fast, and offline-first experience.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+---
+
+## ✨ Features
+- 📊 Dashboard with academic overview  
+- 📚 Course management system  
+- ✅ Task and deadline tracking  
+- 📈 Progress tracking and status indicators  
+- ⚡ Fast offline performance using SQLite  
+- 🎨 Clean and minimal UI design  
+
+---
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Framework:** Tauri  
+- **Database:** SQLite  
+
+---
+
+## ⚡ How to Run
+
+Clone the repository:
+    git clone https://github.com/Blitzbot-Gaming/UniOS.git
+
+Navigate into the project:
+    cd UniOS
+
+Install dependencies:
+    npm install
+
+Run the app:
+    npm run tauri dev
+
+---
+
+## 🔮 Future Improvements
+- Cloud sync and backup  
+- Notifications for deadlines  
+- Enhanced UI/UX animations  
+- Multi-device support  
+
+---
+
+## 👨‍💻 Author
+Armaan Menon  
+Computer Science Student @ UOWD  
